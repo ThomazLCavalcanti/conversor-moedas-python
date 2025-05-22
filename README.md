@@ -26,8 +26,8 @@ Digite o valor: 10
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ThomazLCavalcanti/conversor-moedas.git
-   cd conversor-moedas
+   git clone https://github.com/ThomazLCavalcanti/conversor-moedas-python.git
+   cd conversor-moedas-python
    ```
 
 2. (Opcional) Crie e ative um ambiente virtual:
